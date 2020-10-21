@@ -1,3 +1,5 @@
+#By: Amoah Stefan Ababio(ENITS 1)
+
 
 '''
 ListKeeper Class
@@ -28,6 +30,7 @@ class ListKeeper:
 if __name__ == '__main__':
 
     #Test cases 
+    #Test cases also done in main notebook(Assignment-01.ipynb)
     ls = ListKeeper()
 
     ls.add("shop", [2, 4, 1, 5])
